@@ -1,1 +1,2 @@
 # Air-Quality-Analysis-Project
+This project is about air quality analysis, we used the OpenAQ air quality dataset from AWS open registry and NOAA Weather Data set. OpenAQ contains data about the air quality in various locations throughout the world, this project focused on the Santa Barbara Area in California. These datasets are stored on S3 AWS bucket. The analysis is conducted using AWS applications such as Redshift for data warehousing,  Glue for ETL, and QuickSight for data visualization and creating a dashboard.
